@@ -1,0 +1,49 @@
+html {
+  font-size: 10px;
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: #FBAB69;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #B9EEDF;
+  padding: 10px 30px 10px 30px;
+  border: 20px solid white;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 60px;
+  background-color: #FDEDAF;
+}
+
+p, li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  
+}
+
+p {
+  color: red;
+}
+
+h1 {
+  color: orange;
+  border: 3px solid blue;
+  font-weight: bold;
+}
+
+h2 {
+   font-size: 30px; 
+}
+
+h1,p,h2{
+  text-align: center;
+}
+
